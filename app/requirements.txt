@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+torchaudio
+transformers
+librosa
+mne
+scipy
+pandas
+numpy
+scikit-learn
+tqdm
+matplotlib
